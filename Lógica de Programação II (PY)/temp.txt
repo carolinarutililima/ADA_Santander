@@ -1,0 +1,8 @@
+conteudo do arquivo
+test1.txt para ser
+utilizado como teste para a
+classe construida
+conteudo do arquivo
+test2.txt para ser
+utilizado como teste para a
+classe construida
